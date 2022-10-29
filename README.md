@@ -1,6 +1,6 @@
-# ✈️ 正点原子探索者 ( F407 ) Windows 下 Makefile 工具链开发模板
+## ✈️ 正点原子探索者 ( F407 ) Windows 下 Makefile 工具链开发模板
 
-## 开发环境
+### 开发环境
 
 * 系统:   windows 21H2
 * 终端:   git-bash 5.1.16(1)-release (x86_64-pc-msys)
@@ -9,7 +9,7 @@
 * 编辑器: vscode (1.71.2)
 * 终端模拟器: Alacritty (0.10.1)
 
-## 功能
+### 功能
 
 - [x] FreeRTOS
 - [x] SRAM 适配
