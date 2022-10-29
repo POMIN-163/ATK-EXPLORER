@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    /* 文件排除 */
+    "files.exclude": {},
+    "C_Cpp.formatting": "vcFormat",
+    /* 编码 */
+    "files.encoding": "utf8",
+    /* 字体 */
+    "editor.fontFamily": "Consolas, OPPOSans",
+    "files.associations": {
+      "*.cjson": "jsonc",
+      "*.wxss": "css",
+      "*.wxs": "javascript",
+      "*.o": "plist",
+      "lvgl.h": "c",
+      "lv_examples.h": "c",
+      "stdio.h": "c",
+      "FONT.H": "cpp",
+      "random": "c",
+      "iostream": "cpp",
+      "array": "c",
+      "string_view": "c"
+    },
+
+
+  }
+}
