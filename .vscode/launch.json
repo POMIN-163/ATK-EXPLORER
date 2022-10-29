@@ -17,7 +17,7 @@
       "setupCommands": [
         {
           "description": "选择调试文件(.elf)到gdb",
-          "text": "file F:/project/F4/build/cubemx.elf",
+          "text": "file F:/OpenProj/ATK-EXPLORER/build/cubemx.elf",
           "ignoreFailures": false
         },
         {
@@ -41,7 +41,7 @@
           "ignoreFailures": false
         }
       ],
-      "preLaunchTask": "build"
+      "preLaunchTask": "build & openocd"
     }
   ]
 }

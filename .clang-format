@@ -151,7 +151,7 @@ BreakConstructorInitializers: BeforeColon
 BreakAfterJavaFieldAnnotations: false
 BreakStringLiterals: true
 # 格式化时允许拆分字符串文字
-ColumnLimit: 80
+ColumnLimit: 120
 # 每行字符的限制，0表示没有限制
 CommentPragmas: "^ IWYU pragma:"
 QualifierAlignment: Leave
