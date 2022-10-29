@@ -1,6 +1,6 @@
 #ifndef __GT9147_H
 #define __GT9147_H
-#include "sys.h"
+#include "alias_reg.h"
 
 // IO操作函数
 #define GT_RST PCout(13)  // GT9147复位引脚

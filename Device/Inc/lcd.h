@@ -15,7 +15,7 @@ extern "C" {
 #ifndef __LCD_H
 #define __LCD_H
 #include "stdlib.h"
-#include "sys.h"
+#include "alias_reg.h"
 
 // LCD重要参数集
 typedef struct {

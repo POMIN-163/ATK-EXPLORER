@@ -1,6 +1,6 @@
 #ifndef __MYCT_IIC_H
 #define __MYCT_IIC_H
-#include "sys.h"
+#include "alias_reg.h"
 
 // IO方向设置
 #define CT_SDA_IN()                       \
